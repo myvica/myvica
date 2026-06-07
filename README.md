@@ -1,13 +1,13 @@
 ### 👋 Hi, I’m @myvica.
 ### 🌱 I’m currently learning Git.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=myvica&theme=algolia&show_icons=true" />
+<img align="right" src="https://github-stats-extended.vercel.app/api/top-langs?username=myvica&hide_title=true&layout=donut&langs_count=4&theme=prussian" />
 <!---
 vicacheung/vicacheung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myvica&show_icons=true&theme=algolia&hide_border=1&layout=compact">
+  <img src="https://github-stats-extended.vercel.app/api?username=myvica&show_icons=true&theme=algolia&hide_border=1&layout=compact">
 </p>
 
 ## Platform & Tools
