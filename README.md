@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m @myvica.
 ### 🌱 I’m currently learning Git.
 
-<img align="right" src="https://github-stats-extended.vercel.app/api/top-langs?username=myvica&hide_title=true&layout=donut&langs_count=4&theme=prussian" />
+<img align="right" src="https://github-stats-extended.vercel.app/api/top-langs?username=myvica&hide_title=true&layout=donut&langs_count=4&theme=ambient_gradient" />
 <!---
 vicacheung/vicacheung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
